@@ -1,0 +1,16 @@
+{
+  "token":"MTE0MTgxMDQyNTc1MTY4MzE0Mg.GttGVJ.kK77sJUf4uQiGwLbrsqTCHW1ERQB4NGvKBPyEU",
+  "prefix": "!",
+  
+  "clientID": "ff0a2e6505c54e339733d8a52e9e14e5",
+  "clientSecret": "d2485012cf464a76ab9db0a12fca6f1b",
+  "nodes": [
+    {
+      "host": "eu.lavalink.alexanderof.xyz",
+      "port": 2333,
+      "password": "lavalink",
+      "secure": false
+
+    }
+  ]
+  }
